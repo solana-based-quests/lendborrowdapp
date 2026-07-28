@@ -7,7 +7,7 @@ This repo contains learning content about Solana Pda-related features and functi
 
 This quest is designed to introduce you to building on Solana. We provide complete code samples that you can modify, copy, and run directly on your machine. 
 
-Learn more about [here](https://solquest.tech/challenge/intro-to-pda)
+Learn more about [here](https://www.solanaquest.fun/challenge/intro-to-pda)
 
 
 
